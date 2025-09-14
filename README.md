@@ -15,5 +15,7 @@ Program ini terbagi menjadi 5 menu yaitu:
 2. Lihat Pengaduan <br> Berisi data Pengaduan Masyarakat yang telah mengirim pengaduan.  
 3. Update Status <br> Gunnanya untuk mengupdate status pengaduan yang awalnya Baru menjadi on progress atau selesai.  
 4. Delete Pengaduan <br> Untuk Menghapus data yang ingin di hapus.
+5. Keluar <br> Untuk mengeluarkan program dan berhenti.
+Jika mengimput lebih dari ketentuan yang ada maka program akan menampilkan (Pilihan Salah)
 
 
