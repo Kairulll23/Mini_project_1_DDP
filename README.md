@@ -18,4 +18,9 @@ Program ini terbagi menjadi 5 menu yaitu:
 5. Keluar <br> Untuk mengeluarkan program dan berhenti.
 Jika mengimput lebih dari ketentuan yang ada maka program akan menampilkan (Pilihan Salah)
 
+# Pilih 1
+Jika masuk kepilihan 1 sistem akan meminta nama pelapor dan isi pengaduan, lalu menyimpannya kedalam list, kemudian memberi pesan bahwa data pengaduan ditambahkan.
+<img width="663" height="237" alt="Cuplikan layar 2025-09-14 204758" src="https://github.com/user-attachments/assets/c21c7392-11a6-4422-807f-6ca6aa78c13d" />
+
+
 
