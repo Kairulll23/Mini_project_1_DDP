@@ -4,3 +4,9 @@ Nama : Khairul Ikhsan
 NIM  : 2509116097  
 Sistem Informasi Kelas C 2025  
 
+# Flowchart Sistem Pengaduan Masyarakat
+<img width="1270" height="717" alt="Cuplikan layar 2025-09-14 151803" src="https://github.com/user-attachments/assets/6df9432a-2da9-436c-b034-f6fdaf7642da" />
+
+
+
+
