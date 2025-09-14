@@ -35,7 +35,7 @@ while True:
 
     # untuk updet
     elif pilih == "3":
-        ubah = input("Masukkan ID: ")
+        ubah = int(input("Masukkan ID: "))
         ketemu = False
         for i in range(len(data)):
             if data[i][0] == ubah:
@@ -49,7 +49,7 @@ while True:
 
     # untuk delete
     elif pilih == "4":
-        hapus = input("Masukkan ID yang dihapus: ")
+        hapus = int(input("Masukkan ID yang dihapus: "))
         baru = []
         ketemu = False
         for d in data:
@@ -70,5 +70,6 @@ while True:
 
     else:
         print("Pilihan salah.")
+
 
 
