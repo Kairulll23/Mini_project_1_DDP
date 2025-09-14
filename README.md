@@ -30,6 +30,16 @@ Jika masuk kepilihan 2 sistem akan menampilkan seluruh data/daftar pengaduan yan
 Jika masuk kepilihan 3 pengguna bisa memilih pengaduan berdasarkan ID, lalu mengubah status, dan sistem akan mengubah status sesuai yang di input oleh penerima laporan.
 <br><img width="833" height="271" alt="image" src="https://github.com/user-attachments/assets/e661f029-353e-4ee5-88aa-0600afe09287" />
 
+# Pilih 4
+Jika memilih pilihan 4 maka pengguna dapat menghapus laporan tertentu berdasarkan ID, dan setelah itu sistem akan memastikan data tersebut benar-benar dihapus dari daftar pengaduan.
+<br><img width="904" height="259" alt="image" src="https://github.com/user-attachments/assets/2ead8d9c-8a27-413d-b91d-79e12abe781c" />
+
+# Pilih 5
+Jika memilih pilihan 5 maka program akan dihentikan, akan menampilkan pesan program selesai.
+<br><img width="579" height="202" alt="image" src="https://github.com/user-attachments/assets/404b9eb6-8afa-4b95-b27f-d3dd2ca6eaed" />
+
+
+
 
 
 
