@@ -10,4 +10,4 @@ Sistem Informasi Kelas C 2025
 # Output Menu
 <img width="581" height="289" alt="image" src="https://github.com/user-attachments/assets/3a7a2e72-ae79-452c-9db3-c62f807476b8" />
 
-Fungsi
+Fungsi 
