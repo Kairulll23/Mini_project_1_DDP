@@ -22,5 +22,15 @@ Jika mengimput lebih dari ketentuan yang ada maka program akan menampilkan (Pili
 Jika masuk kepilihan 1 sistem akan meminta nama pelapor dan isi pengaduan, lalu menyimpannya kedalam list, kemudian memberi pesan bahwa data pengaduan ditambahkan.
 <br> <img width="663" height="237" alt="Cuplikan layar 2025-09-14 204758" src="https://github.com/user-attachments/assets/c21c7392-11a6-4422-807f-6ca6aa78c13d" />
 
+# Pilih 2
+Jika masuk kepilihan 2 sistem akan menampilkan seluruh data/daftar pengaduan yang telah di input oleh pelapor yang berupa ID, Nama, Isi, dan Status.
+<br><img width="881" height="214" alt="image" src="https://github.com/user-attachments/assets/d57b19a3-e67d-42bc-9ab7-68807d8d3a86" />
+
+# Pilih 3
+Jika masuk kepilihan 3 pengguna bisa memilih pengaduan berdasarkan ID, lalu mengubah status, dan sistem akan mengubah status sesuai yang di input oleh penerima laporan.
+<br><img width="833" height="271" alt="image" src="https://github.com/user-attachments/assets/e661f029-353e-4ee5-88aa-0600afe09287" />
+
+
+
 
 
