@@ -11,8 +11,7 @@ Sistem Informasi Kelas C 2025
 <img width="581" height="289" alt="image" src="https://github.com/user-attachments/assets/3a7a2e72-ae79-452c-9db3-c62f807476b8" />
 
 Program ini terbagi menjadi 5 menu yaitu:
-1. Tambah Pengaduan
-   Untuk menambahkan pengaduan masyarakat yang berisi inputan nama pelapor, isi pengaduan, dan status(otomatis).
-2. Lihat Pengaduan
-   Berisi data Pengaduan Masyarakat  
+1. Tambah Pengaduan, Untuk menambahkan pengaduan masyarakat yang berisi inputan nama pelapor, isi pengaduan, dan status(otomatis).
+2. Lihat Pengaduan, Berisi data Pengaduan Masyarakat
+3. Update Status, Gunnanya untuk mengubah status dengan memasukkan
 
